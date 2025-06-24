@@ -1,0 +1,16 @@
+.env
+jsongooglecloudstt.json
+# Logs
+logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+# Runtime data
+pids
+*.pid
+*.seed
+.env
+jsongooglecloudstt.json
+pycache
+__pycache__
+/audio_uploads
